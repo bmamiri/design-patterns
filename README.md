@@ -1,8 +1,27 @@
 **This repository is a collection of design patterns I've worked on:**
 
-Singleton, Factory Method, Abstract Factory, Builder, Prototype, Adapter, Bridge, Composite, Decorator, Facade, Flyweight, 
-Strategy, Proxy, Chain of responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Template, 
-Visitor
+Singleton `Runtime - Logger - Spring Beans` <br>
+Factory Method `Calendar - NumberFormat - ResourceBundle` <br>
+Abstract Factory <br>
+Builder, Prototype <br>
+Adapter <br>
+Bridge <br>
+Composite <br>
+Decorator <br>
+Facade <br>
+Flyweight <br>
+Strategy <br>
+Proxy <br>
+Chain of responsibility <br>
+Command <br>
+Interpreter <br>
+Iterator <br>
+Mediator <br>
+Memento <br>
+Observer <br>
+State <br>
+Template <br>
+Visitor <br>
 
 **Categories:**
 
