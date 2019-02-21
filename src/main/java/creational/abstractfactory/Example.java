@@ -11,7 +11,7 @@ public class Example {
         MediaFactory factory =
                 MediaConverterAbstractFactory.createFactory(MediaConverterAbstractFactory.MediaFactoryType.IMAGE);
         Converter converter =
-                factory.createConverter(new File("/tmp/Book.jpg"), Converter.codecTypes.JPG);
+                factory.createConverter(new File("/tmp/Book.jpg"), Converter.CodecTypes.JPG);
         System.out.println(factory.getClass());
         System.out.println(converter.getClass());
         byte[] convert = converter.convert();

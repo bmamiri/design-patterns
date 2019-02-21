@@ -5,5 +5,5 @@ import creational.abstractfactory.mediaconverter.Converter;
 import java.io.File;
 
 public interface MediaFactory {
-    Converter createConverter(File file, Converter.codecTypes codecTypes);
+    Converter createConverter(File file, Converter.CodecTypes codecTypes);
 }

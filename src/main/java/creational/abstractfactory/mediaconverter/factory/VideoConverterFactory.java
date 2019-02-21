@@ -7,9 +7,7 @@ import java.io.File;
 public class VideoConverterFactory implements MediaFactory {
 
     @Override
-    public Converter createConverter(File file, Converter.codecTypes codecTypes) {
-
-        String fileName = file.getName().toLowerCase();
+    public Converter createConverter(File file, Converter.CodecTypes codecTypes) {
 
         throw new IllegalStateException("Converter not found");
     }

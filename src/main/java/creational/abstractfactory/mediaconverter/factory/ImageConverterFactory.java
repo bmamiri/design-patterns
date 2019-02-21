@@ -8,7 +8,7 @@ import java.io.File;
 public class ImageConverterFactory implements MediaFactory {
 
     @Override
-    public Converter createConverter(File file, Converter.codecTypes codecTypes) {
+    public Converter createConverter(File file, Converter.CodecTypes codecTypes) {
 
         String fileName = file.getName().toLowerCase();
         if (fileName.endsWith(".jpg")) {
