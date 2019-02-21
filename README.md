@@ -1,6 +1,6 @@
 **This repository is a collection of design patterns I've worked on:**
 
-Singleton, Factory, Abstract Factory, Builder, Prototype, Adapter, Bridge, Composite, Decorator, Facade, Flyweight, 
+Singleton, Factory Method, Abstract Factory, Builder, Prototype, Adapter, Bridge, Composite, Decorator, Facade, Flyweight, 
 Strategy, Proxy, Chain of responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Template, 
 Visitor
 
