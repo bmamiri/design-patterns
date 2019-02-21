@@ -2,8 +2,8 @@
 
 Singleton `Runtime - Logger - Spring Beans` <br>
 Factory Method `Calendar - NumberFormat - ResourceBundle` <br>
-Abstract Factory `DocumentBuilder- Farmeworks` <br>
-Builder, Prototype <br>
+Abstract Factory `Farmeworks` <br>
+Builder, Prototype `String Builder` <br>
 Adapter <br>
 Bridge <br>
 Composite <br>
