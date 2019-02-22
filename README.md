@@ -1,28 +1,28 @@
 **This repository is a collection of design patterns I've worked on:**
 
-Singleton `Runtime - Logger - Spring Beans` <br>
-Factory Method `Calendar - NumberFormat - ResourceBundle` <br>
-Abstract Factory `Farmeworks` <br>
-Builder, `String Builder` <br>
-Prototype <br>
-Adapter <br>
-Bridge <br>
-Composite <br>
-Decorator <br>
-Facade <br>
-Flyweight <br>
-Strategy <br>
-Proxy <br>
-Chain of responsibility <br>
-Command <br>
-Interpreter <br>
-Iterator <br>
-Mediator <br>
-Memento <br>
-Observer <br>
-State <br>
-Template <br>
-Visitor <br>
+Singleton `Runtime - Logger - Spring Beans`<br>
+Factory Method `Calendar - NumberFormat - ResourceBundle`<br>
+Abstract Factory `Farmeworks`<br>
+Builder `String Builder`<br>
+Prototype<br>
+Adapter<br>
+Bridge<br>
+Composite<br>
+Decorator<br>
+Facade<br>
+Flyweight<br>
+Strategy<br>
+Proxy<br>
+Chain of responsibility<br>
+Command<br>
+Interpreter<br>
+Iterator<br>
+Mediator<br>
+Memento<br>
+Observer<br>
+State<br>
+Template<br>
+Visitor<br>
 
 **Categories:**
 
