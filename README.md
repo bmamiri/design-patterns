@@ -4,7 +4,7 @@ Singleton `Runtime - Logger - Spring Beans`<br>
 Factory Method `Calendar - NumberFormat - ResourceBundle`<br>
 Abstract Factory `Farmeworks`<br>
 Builder `String Builder`<br>
-Prototype<br>
+Prototype `java.lang.Object#clone()`<br>
 Adapter<br>
 Bridge<br>
 Composite<br>
