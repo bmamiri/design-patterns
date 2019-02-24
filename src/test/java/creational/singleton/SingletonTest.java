@@ -5,7 +5,7 @@ import java.text.MessageFormat;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class DbConnectionTest {
+public class SingletonTest {
 
     @org.junit.jupiter.api.Test
     public void getInstance() {

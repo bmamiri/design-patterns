@@ -6,7 +6,7 @@ import creational.abstractfactory.mediaconverter.factory.MediaFactory;
 
 import java.io.File;
 
-public class Example {
+public class AbstractFactoryTest {
     public static void main(String[] args) throws Exception {
         MediaFactory factory =
                 MediaConverterAbstractFactory.createFactory(MediaConverterAbstractFactory.MediaFactoryType.IMAGE);

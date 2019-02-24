@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class ShapeFactoryTest {
+public class FactoryMethodTest {
     @Test
     void getShapeInstance() {
         ShapeFactory shapeFactory = new ShapeFactory();
