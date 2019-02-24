@@ -5,7 +5,7 @@ Factory Method `Calendar - NumberFormat - ResourceBundle`<br>
 Abstract Factory `Farmeworks`<br>
 Builder `String Builder`<br>
 Prototype `java.lang.Object#clone()`<br>
-Adapter<br>
+Adapter `Arrays.asList()`<br>
 Bridge<br>
 Composite<br>
 Decorator<br>
