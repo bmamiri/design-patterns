@@ -6,7 +6,7 @@ Abstract Factory `Farmeworks`<br>
 Builder `String Builder`<br>
 Prototype `java.lang.Object#clone()`<br>
 Adapter `Arrays.asList()`<br>
-Bridge<br>
+Bridge `Drivers - JDBC`<br> 
 Composite<br>
 Decorator<br>
 Facade<br>
