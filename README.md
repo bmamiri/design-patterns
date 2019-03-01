@@ -7,7 +7,7 @@ Builder `String Builder`<br>
 Prototype `java.lang.Object#clone()`<br>
 Adapter `Arrays.asList()`<br>
 Bridge `Drivers - JDBC`<br> 
-Composite<br>
+Composite `java.awt.Component - JSF widget`<br>
 Decorator<br>
 Facade<br>
 Flyweight<br>
