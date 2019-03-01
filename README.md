@@ -8,7 +8,7 @@ Prototype `java.lang.Object#clone()`<br>
 Adapter `Arrays.asList()`<br>
 Bridge `Drivers - JDBC`<br> 
 Composite `java.awt.Component - JSF widget`<br>
-Decorator<br>
+Decorator `java.io.InputStream - java.util.Collections.checkedList - UI Components`<br>
 Facade<br>
 Flyweight<br>
 Strategy<br>
