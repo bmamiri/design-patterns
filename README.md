@@ -9,7 +9,7 @@ Adapter `Arrays.asList()`<br>
 Bridge `Drivers - JDBC`<br> 
 Composite `java.awt.Component - JSF widget`<br>
 Decorator `java.io.InputStream - java.util.Collections.checkedList - UI Components`<br>
-Facade<br>
+Facade `java.net.URL - java.faces.context.FacesContext`<br>
 Flyweight<br>
 Strategy<br>
 Proxy<br>
