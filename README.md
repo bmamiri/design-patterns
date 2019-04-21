@@ -10,7 +10,7 @@ Bridge `Drivers - JDBC`<br>
 Composite `java.awt.Component - JSF widget`<br>
 Decorator `java.io.InputStream - java.util.Collections.checkedList - UI Components`<br>
 Facade `java.net.URL - java.faces.context.FacesContext`<br>
-Flyweight<br>
+Flyweight `java.lang.String - java.lang.Integer#valueOf(int) - Boolean, Byte, Character, Short, Long`<br>
 Strategy<br>
 Proxy<br>
 Chain of responsibility<br>
