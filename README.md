@@ -13,7 +13,7 @@ Facade `java.net.URL - java.faces.context.FacesContext`<br>
 Flyweight `java.lang.String - java.lang.Integer#valueOf(int) - Boolean, Byte, Character, Short, Long`<br>
 Strategy `java.util.Comparator`<br>
 Proxy `java.lang.reflect.proxy - java.rmi.*`<br>
-Chain of responsibility<br>
+Chain of responsibility `java.util.logging.Logger#log() - javax.servlet.Filter.doFilter() - Spring Security Filter Chain`<br>
 Command<br>
 Interpreter<br>
 Iterator<br>
