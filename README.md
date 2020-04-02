@@ -14,8 +14,8 @@ Flyweight `java.lang.String - java.lang.Integer#valueOf(int) - Boolean, Byte, Ch
 Strategy `java.util.Comparator`<br>
 Proxy `java.lang.reflect.proxy - java.rmi.*`<br>
 Chain of responsibility `java.util.logging.Logger#log() - javax.servlet.Filter.doFilter() - Spring Security Filter Chain`<br>
-Command<br> `Object Oriented Callback, java.lang.Runnable, javax.swing.Action`
-Interpreter<br>
+Command `Object Oriented Callback - java.lang.Runnable - javax.swing.Action`<br>
+Interpreter `java.util.pattern - java.text.Format`<br>
 Iterator<br>
 Mediator<br>
 Memento<br>
