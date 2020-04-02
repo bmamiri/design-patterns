@@ -16,7 +16,7 @@ Proxy `java.lang.reflect.proxy - java.rmi.*`<br>
 Chain of responsibility `java.util.logging.Logger#log() - javax.servlet.Filter.doFilter() - Spring Security Filter Chain`<br>
 Command `Object Oriented Callback - java.lang.Runnable - javax.swing.Action`<br>
 Interpreter `java.util.pattern - java.text.Format`<br>
-Iterator<br>
+Iterator `java.util.Iterator - java.util.Enumeration`<br>
 Mediator<br>
 Memento<br>
 Observer<br>
