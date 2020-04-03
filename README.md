@@ -17,7 +17,7 @@ Chain of responsibility `java.util.logging.Logger#log() - javax.servlet.Filter.d
 Command `Object Oriented Callback - java.lang.Runnable - javax.swing.Action`<br>
 Interpreter `java.util.pattern - java.text.Format`<br>
 Iterator `java.util.Iterator - java.util.Enumeration`<br>
-Mediator<br>
+Mediator `java.util.Timer`<br>
 Memento<br>
 Observer<br>
 State<br>
