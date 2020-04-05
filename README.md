@@ -19,7 +19,7 @@ Interpreter `java.util.pattern - java.text.Format`<br>
 Iterator `java.util.Iterator - java.util.Enumeration`<br>
 Mediator `java.util.Timer`<br>
 Memento `java.util.Date - java.io.Serializable`<br>
-Observer<br>
+Observer `java.util.Observer - java.util.EventListener - javax.jms.Topic`<br>
 State<br>
 Template<br>
 Visitor<br>
