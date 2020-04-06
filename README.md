@@ -20,7 +20,7 @@ Iterator `java.util.Iterator - java.util.Enumeration`<br>
 Mediator `java.util.Timer`<br>
 Memento `java.util.Date - java.io.Serializable`<br>
 Observer `java.util.Observer - java.util.EventListener - javax.jms.Topic`<br>
-State<br>
+State<br> `Iterator - JSF`<br>
 Template<br>
 Visitor<br>
 
