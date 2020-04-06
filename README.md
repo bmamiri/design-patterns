@@ -22,7 +22,7 @@ Memento `java.util.Date - java.io.Serializable`<br>
 Observer `java.util.Observer - java.util.EventListener - javax.jms.Topic`<br>
 State `Iterator - JSF`<br>
 Template `java.util.Collections#sort`<br>
-Visitor<br>
+Visitor `javax.lang.model.element.Element - javax.lang.model.element.ElementVisitor`<br>
 
 **Categories:**
 
